@@ -1,0 +1,2 @@
+This is a web appliaction for an admin panel developed during an iot project which is an iot_based smart wheelchair.
+This CRUD application enables the administrator to manage users'accounts: create, update, read and delete accounts 
